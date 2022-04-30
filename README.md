@@ -7,7 +7,7 @@
     <body>
         <table cellspacing="20">
             <tr>
-                <td><img src="Images/PSD 1.jpg" alt="Anish's Profile Picture"></td>
+                <td><img src="PSD 1.jpg" alt="Anish's Profile Picture"></td>
                 <td><h1>Anish Vemavarapu</h1>
                     <p><em>Founder and Designer of <strong><a href="https://www.instagram.com/anishan124/">Anish Photography</a></strong></em></p>
                     <p>Im a Freelance Graphic Designer. I Love Cofee and currently learning to code everyday</p></td>
